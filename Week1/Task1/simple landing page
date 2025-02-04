@@ -19,7 +19,7 @@
     <main>
         <section class="hero">
             <h1>Welcome to Our Landing Page</h1>
-            <p>This is a sample landing page created using HTML and CSS.</p>
+            <p>This is a sample and first  landing page created using HTML and CSS.</p>
             <button>Learn More</button>
         </section>
         <section class="features">
@@ -36,7 +36,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2023 Landing Page</p>
+        <p>&copy; 2025 Landing Page</p>
     </footer>
 </body>
 </html>
