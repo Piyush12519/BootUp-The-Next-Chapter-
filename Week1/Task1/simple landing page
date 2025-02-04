@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="hero">
+            <h1>Welcome to Our Landing Page</h1>
+            <p>This is a sample landing page created using HTML and CSS.</p>
+            <button>Learn More</button>
+        </section>
+        <section class="features">
+            <h2>Features</h2>
+            <ul>
+                <li><i class="fas fa-check"></i> Feature 1</li>
+                <li><i class="fas fa-check"></i> Feature 2</li>
+                <li><i class="fas fa-check"></i> Feature 3</li>
+            </ul>
+        </section>
+        <section class="call-to-action">
+            <h2>Get Started Today!</h2>
+            <button>Sign Up</button>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Landing Page</p>
+    </footer>
+</body>
+</html>
